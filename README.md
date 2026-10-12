@@ -1,5 +1,4 @@
-# Lab 4: Automated Unit Testing - Student Kit
-
+# Lab 4: Automated Unit Testing
 ## Files
     helpers.py                  code under test (do NOT edit)
     test_helpers.py             YOUR file: write your tests here
